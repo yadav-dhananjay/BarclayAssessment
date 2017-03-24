@@ -1,0 +1,9 @@
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\bin\Debug\AirportBaggage.Business.dll
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\bin\Debug\AirportBaggage.Business.pdb
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\bin\Debug\AirportBaggage.Helpers.dll
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\bin\Debug\AirportBaggage.Models.dll
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\bin\Debug\AirportBaggage.Helpers.pdb
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\bin\Debug\AirportBaggage.Models.pdb
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\obj\Debug\AirportBaggage.Business.csprojResolveAssemblyReference.cache
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\obj\Debug\AirportBaggage.Business.dll
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage.Business\obj\Debug\AirportBaggage.Business.pdb

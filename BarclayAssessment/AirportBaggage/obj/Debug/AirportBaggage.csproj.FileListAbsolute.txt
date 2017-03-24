@@ -1,0 +1,24 @@
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.exe.config
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.exe
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.pdb
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Business.dll
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Models.dll
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Helpers.dll
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Business.pdb
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Models.pdb
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Helpers.pdb
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\obj\Debug\AirportBaggage.csprojResolveAssemblyReference.cache
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\obj\Debug\AirportBaggage.exe
+c:\users\kanchan\documents\visual studio 2013\Projects\BarclayAssessment\AirportBaggage\obj\Debug\AirportBaggage.pdb
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.exe.config
+C:\training\BarclayAssessment\AirportBaggage\obj\Debug\AirportBaggage.exe
+C:\training\BarclayAssessment\AirportBaggage\obj\Debug\AirportBaggage.pdb
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.exe
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.pdb
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Business.dll
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Models.dll
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Helpers.dll
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Business.pdb
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Models.pdb
+C:\training\BarclayAssessment\AirportBaggage\bin\Debug\AirportBaggage.Helpers.pdb
+C:\training\BarclayAssessment\AirportBaggage\obj\Debug\AirportBaggage.csprojResolveAssemblyReference.cache
